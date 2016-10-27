@@ -1,0 +1,2 @@
+serviceClass: com.treestrokes.todaywelack.client.LackItemsService
+path: 3E083845FBCE53C8FB860AF4CF44AEC1.gwt.rpc

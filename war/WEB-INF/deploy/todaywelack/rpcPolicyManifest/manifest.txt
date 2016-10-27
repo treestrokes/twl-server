@@ -1,0 +1,4 @@
+# Module todaywelack
+# RPC service class, partial path of RPC policy file
+com.treestrokes.todaywelack.client.LackItemsService, 3E083845FBCE53C8FB860AF4CF44AEC1.gwt.rpc
+com.treestrokes.todaywelack.client.GreetingService, 597BF0C8EDD956D60864469877BC6C23.gwt.rpc

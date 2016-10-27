@@ -1,0 +1,2 @@
+serviceClass: com.treestrokes.todaywelack.client.GreetingService
+path: 597BF0C8EDD956D60864469877BC6C23.gwt.rpc
